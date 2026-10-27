@@ -2,6 +2,11 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, SAU 103!" << endl;
+    cout << "Hello!" << endl;
+
+
+
+
+    
     return 0;
 }
